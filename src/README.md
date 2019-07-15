@@ -1,6 +1,6 @@
 # Favorite Movies App
 
-## React app that allows user to POST, GET, PUT, DELETE items from a movies database.
+## React app that allows users to POST, GET, PUT, DELETE items from a movies database using an IMDB API.
 
 ## App Structure
 
